@@ -4,7 +4,7 @@ inicio = Variable que inicia el contador de tiempo, time.time es la funcion que 
 
 dataset = contenedor de los datos que se filtran
 
-data_array = arreglo de datos que posee los datos filtrados que se compararan con la condicion
+data_matrix = matriz de datos que posee los datos filtrados que se compararan con la condicion
 
 remaining_data = Datos que quedan una vez se filtraron los datos 
 
