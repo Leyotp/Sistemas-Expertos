@@ -12,3 +12,4 @@ loc, scale, size son las variables que utiliza Numpy en su funcion np.random.nor
 
 loc es media, scale es escala, size es el tamaño de la cantidad de datos.
 
+https://youtu.be/9xsbyxZ4aqI - Link del video 
